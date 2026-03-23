@@ -24,3 +24,29 @@ samples, guidance on mobile development, and a full API reference.
 <img width="340" height="565" alt="image" src="https://github.com/user-attachments/assets/e35eac4f-6905-47c3-8a63-6e8fb5c3770e" />
 <img width="337" height="556" alt="image" src="https://github.com/user-attachments/assets/f0bbb0dc-a0be-4de5-8e58-9a96cf953616" />
 <img width="336" height="564" alt="image" src="https://github.com/user-attachments/assets/a8ba22bd-5558-45fa-8bb1-98ad4c37e669" />
+
+#Prompt:
+"Fotografía profesional de comida para la marca de sushi 'Kinsui Express'. Estética minimalista japonesa moderna, composición limpia, iluminación cinematográfica, fondo con desenfoque elegante (bokeh). Colores: negros profundos, naranja vibrante de salmón, verde esmeralda y toques de jengibre rosa. Resolución 8k, fotorrealista, detalles macro en la textura del arroz y pescado fresco."
+
+Adaptaciones para tus 5 pantallas (Tabs)
+Copia y pega estos prompts según la imagen que necesites para tu repositorio de GitHub:
+
+Home (Inicio):
+
+"Un platillo especial del chef con una variedad de sushi premium sobre una tabla de piedra negra, efecto de humo/vapor sutil para un aspecto de gran apertura, vista frontal."
+
+Búsqueda (Explorar):
+
+"Vista aérea (cenital) minimalista de un solo rollo de sushi premium en el centro de una mesa de madera clara, mucho espacio vacío alrededor para un diseño limpio."
+
+Carrito (Tu Pedido):
+
+"Caja de empaque de lujo (takeout box) color negro mate abierta, llena de rollos de sushi coloridos, lista para entrega a domicilio, iluminación de estudio."
+
+Rollos (Menú Especializado):
+
+"Primer plano macro de un 'Dragon Roll' con salsa anguila brillante cayendo y cebolla crujiente, luces cálidas de atardecer resaltando la textura del aguacate."
+
+Contacto (Ubicación/Soporte):
+
+"Interior de un moderno bar de sushi con luces de neón tenues al fondo, un mostrador de madera elegante y la silueta desenfocada de un chef profesional, ambiente urbano."
